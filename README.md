@@ -1,8 +1,6 @@
 # Hi, I'm Matteo!
 
-<img src="https://www.matteotritto.it/teonji.jpg" width="230" style="border-radius: 50%;">
-
-### Fullstack developer
+## Fullstack developer
 
 [![Linkedin: matteotritto](https://img.shields.io/badge/-matteotritto-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matteotritto/)](https://www.linkedin.com/in/matteotritto/)
 [![Website: matteotritto.it](https://img.shields.io/badge/-matteotritto.it-orange?style=flat-square&link=https://www.matteotritto.it)](https://www.matteotritto.it)
